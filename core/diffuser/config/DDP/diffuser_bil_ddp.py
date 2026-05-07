@@ -19,6 +19,7 @@ if __name__ == '__main__':
 dataset_upsample = 1.0 # 8 -> 8
 # ori_map_size = (8, 8)
 ori_map_size = (16, 16)
+# ori_map_size = (32, 32)
 
 h = int(ori_map_size[0] * dataset_upsample); w = int(ori_map_size[1] * dataset_upsample)
 
