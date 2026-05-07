@@ -1,0 +1,2 @@
+Imported from: https://github.com/Rin-Li/diffusion_motion.git
+Upstream commit: 3c1aab1e06fe1c2d8bd84758be0105ea1a12bd3e

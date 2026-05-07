@@ -1,0 +1,2 @@
+nohup python3 run/test_comp_diffusion.py --model_id=1 --ddp_trained --cp_path=/exhdd/seungyu/diffusion_motion/trained_weights/comp_v2_ddp_95792/run1/state_100000.pt \
+    --device=cuda:0 --test_num=1000 --map_size=8 --num_vis=500 --vis_fname=comp_diffuser_ddp_100k > test_results_log/comp_diffuser_ddp_100k.log 2>&1 &

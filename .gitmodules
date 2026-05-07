@@ -1,0 +1,3 @@
+[submodule "SegMAN"]
+	path = SegMAN
+	url = https://github.com/yunxiangfu2001/SegMAN.git
